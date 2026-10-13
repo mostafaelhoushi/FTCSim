@@ -39,13 +39,12 @@ public class MyFIRSTJavaOpMode extends LinearOpMode {
 		waitForStart();
 		// Put run blocks here
 		moveForward(1100,1);
-    tiltRight(500,1);
-    moveForward(2000,1);
-    tiltRight(500,1);
-    moveForward(2000,1);
-    tiltRight(500,1);
-    moveForward(1000,1);
+        tiltRight(500,1);
+        moveForward(2000,1);
+        tiltRight(500,1);
+        moveForward(2000,1);
+        tiltRight(500,1);
+        moveForward(1000,1);
 	}
 
-	
 }
